@@ -1,1 +1,0 @@
-método mágico são métodos especiais que sobrescrevem o comportamento padrão do PHP. Eles começam com __. O principal exemplo é o __construct, que é um método ordinário, chamado durante a criação do objeto. 

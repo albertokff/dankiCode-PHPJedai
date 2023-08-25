@@ -1,3 +1,0 @@
-classes abstract não podem ser instanciadas, apenas herdadas!
-
-funções static podem ser chamadas dentro de outras funções e também fora delas.
