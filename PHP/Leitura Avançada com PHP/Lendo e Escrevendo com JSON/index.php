@@ -24,7 +24,7 @@
 ?>
 
 <!DOCTYPE html>
-<html>
+<html>0
 <head>
 	<title></title>
 </head>
