@@ -1,0 +1,10 @@
+public funciona em qualquer lugar!
+private só conseguimos acessar dentro da classe!
+
+
+para acessar uma classe pública em outro arquivo:
+	# 1 - cria a variavel e instancia a classe
+	# 2 - essa mesma variavel acessa com -> o método ou a função dentro da classe
+
+
+
